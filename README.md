@@ -28,3 +28,5 @@
   <a href="https://instagram.com/gs-nasc" alt="Instagram">
   <img src="https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM"/></a>
 </p>  
+
+[![card](https://github-readme-stats.vercel.app/api?username=gs-nasc&theme=dark)](https://github.com/iuricode/)
