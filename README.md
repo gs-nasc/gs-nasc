@@ -31,3 +31,4 @@
 
 [![card](https://github-readme-stats.vercel.app/api?username=gs-nasc)](https://github.com/gs-nasc/)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs-nasc&layout=compact)](https://github.com/gs-nasc/)
+[![gs-nasc's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gs-nasc&layout=compact)](https://github.com/gs-nasc/)
