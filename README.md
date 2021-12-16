@@ -29,5 +29,7 @@
   <img src = "https://img.shields.io/badge/-Instagram-DF0174?style=flat-square&labelColor=DF0174&logo=instagram&logoColor=white&link=LINK-DO-SEU-INSTAGRAM" /> </a>
 </p>
 
-[![card](https://github-readme-stats.vercel.app/api?username=gs-nasc&count_private=true&show_icons=true&theme=dark)](https://github.com/gs-nasc/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gs-nasc&layout=compact&theme=dark)](https://github.com/gs-nasc/)
+ <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-nasc&count_private=true&show_icons=true&theme=dark&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-nasc&layout=compact&theme=dark&langs_count=7"/>
+</div>
