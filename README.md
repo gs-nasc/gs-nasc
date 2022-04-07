@@ -1,9 +1,9 @@
 <img src = "https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width = "400px" max-width = "400px" width = "400px" align = "right" alt = "iuriCode computer">
 
 <p align = "left">
-  Hello my name is Gabriel Nascimento, I'm a <strong> Full-Stack Web </strong> and <strong> Mobile <strong> developer. <br>
-  I am currently working in a <strong> E-Commerce </strong> and <strong> ERP </strong> development company, I am accepting
-  freelas on the web (sites, API's, among others), if I need my job just get in touch.
+  Hello, my name is Gabriel Nascimento. <br/> 
+  I'm a <strong> Full-Stack Web </strong> and <strong> Mobile </strong> developer at an <strong> E-Commerce </strong> and <strong> ERP </strong> development company. <br/>
+  I also do freelance work on the web (sites and APIs, among others). If you need my services, just get in touch.
 </p>
 
 <p align = "left">
@@ -15,7 +15,7 @@
 </p>
 
 <p align = "left">
-  💌 If I need help with a project or want to expand your network, just get in touch: ⤵️
+  💌 If you need help with a project or want to expand your network, reach me anytime: ⤵️
 </p>
 
 <p align = "left">
