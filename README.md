@@ -32,10 +32,7 @@
  <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=gs-nasc&count_private=true&show_icons=true&theme=dark&show_icons=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gs-nasc&layout=compact&theme=dark&langs_count=7"/>
-</div>
-<div align="center">
-  <img height="360em" src="https://github.com/gs-nasc/gs-nasc/blob/output/github-contribution-grid-snake.svg" />
-</div>
+ </div>
 
 <div align="center">
   <a href="https://spotify-github-profile.vercel.app/api/view?uid=f09aqxs67fldzguf3kqps0yjf&redirect=true" target="_blank">
